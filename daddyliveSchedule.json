@@ -381,6 +381,45 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - TORONTO</span>": [
+            {
+                "time": "20:30",
+                "event": "ATP - TORONTO : Fils A./Shelton B. vs Krawietz K./Puetz T.",
+                "channels": []
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - TORONTO : Andreozzi G./Arends S. vs Cash J./Glasspool L.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - TORONTO : Zverev A. vs Popyrin A.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - TORONTO : Michelsen A. vs Khachanov K.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MONTREAL</span>": [
+            {
+                "time": "20:00",
+                "event": "WTA - MONTREAL : Gauff C./Kessler M. vs Danilovic 0./Hsieh S-W.",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - MONTREAL : Kostyuk M. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - MONTREAL : Mboko V. vs Bouzas Maneiro J.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
