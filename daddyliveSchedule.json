@@ -536,6 +536,134 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - TORONTO</span>": [
+            {
+                "time": "21:00",
+                "event": "ATP - TORONTO : Salisbury J./Skupski N. vs Cash J./Glasspool L.",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "ATP - TORONTO : Khachanov K. vs Shelton B.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Bonzi B. vs Arnaldi M.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Carballes Baena R. vs Gaston H.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Fonseca J. vs Bu Y.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Martinez P. vs Jarry N.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - CINCINNATI : Rinderknech A. vs Borges N.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Bergs Z. vs Fearnley J.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - CINCINNATI : Safiullin R. vs Tabilo A.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - CINCINNATI : Galan D. E. vs Kopriva V.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - CINCINNATI : Mpetshi Perricard G. vs Wong C.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - CINCINNATI : Etcheverry T. M. vs Shang J.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - CINCINNATI : Atmane T. vs Nishioka Y.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - CINCINNATI : Smith C. vs Marozsan F.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - CINCINNATI : Thompson J. vs Mannarino A.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - CINCINNATI : Moutet C. vs McDonald M.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - CINCINNATI : Baez S. vs Goffin D.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MONTREAL</span>": [
+            {
+                "time": "22:00",
+                "event": "WTA - MONTREAL : Mboko V. vs Osaka N.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Cirstea S. vs Vekic D.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CINCINNATI : Joint M. vs Minnen G.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Potapova A. vs Siegemund L.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Vondrousova M. vs Cristian J.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CINCINNATI : Zarazua R. vs Putintseva Y.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - CINCINNATI : Danilovic 0. vs Boulter K.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
