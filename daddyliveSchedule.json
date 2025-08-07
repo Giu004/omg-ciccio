@@ -12,6 +12,11 @@
                 "channels": []
             },
             {
+                "time": "22:30",
+                "event": "Fast Lane Motorsports Northland Super Stock Series",
+                "channels": []
+            },
+            {
                 "time": "23:15",
                 "event": "Dirtvision : Action Track USA",
                 "channels": []
@@ -19,6 +24,11 @@
             {
                 "time": "23:45",
                 "event": "2025 NASCAR Whelen Modified Tour at Thompson Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "2025 Salute to Veterans | Night #3",
                 "channels": []
             }
         ],
