@@ -1,5 +1,57 @@
 {
     "Friday 08th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Xtreme Outlaw Midgets Path Valley",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Knoxville",
+                "channels": []
+            },
+            {
+                "time": "22:20",
+                "event": "2025 American Racer QC Series at Autodrome Granby",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Lucas Oil North/South 100 at Florence Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 American Flat Track Jackpine Gypsies Super TT",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "2025 MARS Late Models at Sycamore Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "XFN 403",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
