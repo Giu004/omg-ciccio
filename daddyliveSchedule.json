@@ -1,5 +1,32 @@
 {
     "Sunday 10th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:00",
+                "event": "Nascar Modifieds Riverhead",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "True Grit Wrestling: Summer Riot 2025",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Jacksonville Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "Late Models Slinger",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Anthony Pettis FC 19: Virignia Fight Night IV",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
