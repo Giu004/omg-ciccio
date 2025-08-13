@@ -1,5 +1,32 @@
 {
     "Wednesday 13th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 Tekton 250 Battle at Berlin at Berlin Raceway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Action Track USA",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprints",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Highland",
+                "channels": []
+            },
+            {
+                "time": "23:25",
+                "event": "2025 IMCA Captain of the Creek at 141 Speedway",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
