@@ -444,22 +444,27 @@
             },
             {
                 "time": "16:30",
-                "event": "ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B.",
+                "event": "ATP - CINCINNATI : Nakashima B. vs Zverev A.",
                 "channels": []
             },
             {
-                "time": "16:30",
+                "time": "17:00",
+                "event": "ATP - CINCINNATI : Shelton B. vs Bautista-Agut R.",
+                "channels": []
+            },
+            {
+                "time": "17:30",
                 "event": "ATP - CINCINNATI : Sinner J. vs Mannarino A.",
                 "channels": []
             },
             {
-                "time": "18:00",
-                "event": "ATP - CINCINNATI : Fritz T. vs Atmane T.",
+                "time": "19:00",
+                "event": "ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B.",
                 "channels": []
             },
             {
-                "time": "19:30",
-                "event": "ATP - CINCINNATI : Comesana F. vs Rublev A.",
+                "time": "20:30",
+                "event": "ATP - CINCINNATI : Fritz T. vs Atmane T.",
                 "channels": []
             },
             {
@@ -468,8 +473,8 @@
                 "channels": []
             },
             {
-                "time": "22:30",
-                "event": "ATP - CINCINNATI : Lehecka J. vs Shelton or Bautista-Agut",
+                "time": "22:00",
+                "event": "ATP - CINCINNATI : Comesana F. vs Rublev A.",
                 "channels": []
             },
             {
@@ -481,11 +486,21 @@
         "Tennis WTA - CINCINNATI</span>": [
             {
                 "time": "15:00",
-                "event": "WTA - CINCINNATI : Swiatek 1. vs Cirstea S.",
+                "event": "WTA - CINCINNATI : Swiatek I. vs Cirstea S.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - CINCINNATI : Tauson C vs Kudermetova V.",
                 "channels": []
             },
             {
                 "time": "16:30",
+                "event": "WTA - CINCINNATI : Linette M. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
                 "event": "WTA - CINCINNATI : Rybakina E. vs Keys M.",
                 "channels": []
             },
