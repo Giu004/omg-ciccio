@@ -2,13 +2,98 @@
     "Saturday 16th Aug 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
-                "time": "13:30",
-                "event": "American Flat Track Episode 10",
+                "time": "14:30",
+                "event": "AMA Supercross Championship New Berlin",
                 "channels": []
             },
             {
-                "time": "13:30",
-                "event": "Bmerican Flat Track Episode 10",
+                "time": "15:00",
+                "event": "USAC Bettenhausen 100 Illinois",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "2025 American Flat Track at Peoria TT",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "Queensberry Promotions : Moses Itauma vs. Dillian Whyte",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "wXw: Shortcut to the Top 2025",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "2025 CARS Tour at Anderson Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "2025 NASCAR Weekly Racing at Le RPM Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:15",
+                "event": "2025 Championship Night at Oswego Speedway",
+                "channels": []
+            },
+            {
+                "time": "21:15",
+                "event": "Baldwin Evans Jarzombek 77 Riverhead",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NASCAR Weekly Racing at Berlin Raceway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Championship Night at Fonda Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprints",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Models",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "American Sprint Car Series El Paso",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "IRA Sprints Wilmot",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models Maquoketa",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Jackson",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "BKB 44: Denver Brawl V",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Redneck Brawl 10",
                 "channels": []
             }
         ],
