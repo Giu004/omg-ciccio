@@ -77,6 +77,26 @@
                 "channels": []
             },
             {
+                "time": "23:00",
+                "event": "Whynot Motorsports Park",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Richmond Raceway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Maquoketa Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "NASCAR Weekly Racing at Le RPM Speedway",
+                "channels": []
+            },
+            {
                 "time": "23:15",
                 "event": "World of Outlaws Late Models Maquoketa",
                 "channels": []
@@ -88,12 +108,32 @@
             },
             {
                 "time": "23:30",
+                "event": "CARS Tour at Anderson Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Grundy County Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Jackson Motorplex",
+                "channels": []
+            },
+            {
+                "time": "23:30",
                 "event": "BKB 44: Denver Brawl V",
                 "channels": []
             },
             {
                 "time": "00:00",
                 "event": "Redneck Brawl 10",
+                "channels": []
+            },
+            {
+                "time": "00:10",
+                "event": "Lucas Oil Topless 100 at Batesville Motor Speedway",
                 "channels": []
             }
         ],
