@@ -461,6 +461,223 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - CINCINNATI</span>": [
+            {
+                "time": "19:00",
+                "event": "ATP - CINCINNATI Final : Sinner J. vs Alcaraz C.",
+                "channels": []
+            }
+        ],
+        "Tennis US OPEN - QUALIFYING</span>": [
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Stadium 17",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 5",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 4",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 6",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 7",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 8",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 10",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 11",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 12",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 13",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 14",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 15",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 16",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - WINSTON SALEM</span>": [
+            {
+                "time": "18:00",
+                "event": "ATP - WINSTON SALEM : Collignon R. vs Basavareddy N.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - WINSTON SALEM : Gaston H. vs Fucsovics M.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - WINSTON SALEM : Safiullin R. vs O'Connell C.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - WINSTON SALEM : Coric B. vs Blanch Dar.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - WINSTON SALEM : Kopriva V. vs Korda S.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - WINSTON SALEM : Kovacevic A. vs Misolic F.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - WINSTON SALEM : Navone M. vs Suresh D.",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - WINSTON SALEM : Comesana F. vs Bellucci M.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - WINSTON SALEM : Dostanic S. vs Vukic A.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - WINSTON SALEM : Borges N. vs Majchrzak K.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - CINCINNATI</span>": [
+            {
+                "time": "22:00",
+                "event": "WTA - CINCINNATI  Final : Swiatek I. vs Paolini J.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - CLEVELAND</span>": [
+            {
+                "time": "15:00",
+                "event": "WTA - CLEVELAND : Cirstea S. vs Uchijima M.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CLEVELAND : Ruse G. vs Baptiste H.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - CLEVELAND : Teichmann J. vs Boisson L.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CLEVELAND : Gibson T. vs Minnen G.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CLEVELAND : Samsonova L. vs Dolehide C.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CLEVELAND : Zhu L. vs Jacquemot E.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - CLEVELAND : Bronzetti L. vs Golubic V.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - CLEVELAND : Lamens S. vs Wang Xin.",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "WTA - CLEVELAND : Stearns P. vs Wang Y.",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - CLEVELAND : Boulter K. vs Yuan Y.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MONTERREY</span>": [
+            {
+                "time": "21:00",
+                "event": "WTA - MONTERREY : Bouzas Maneiro J. vs Rakhimova K.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - MONTERREY : Bondar A. vs Maria T.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - MONTERREY : Blinkova A. vs Mertens E.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - MONTERREY : Bouzkova M. vs Sonmez Z.",
+                "channels": []
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - MONTERREY : Sakkari M. vs Vekic D.",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - MONTERREY : Cristian J. vs Fernandez L.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
