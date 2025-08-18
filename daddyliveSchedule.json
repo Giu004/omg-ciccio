@@ -476,7 +476,7 @@
         "Tennis ATP - CINCINNATI</span>": [
             {
                 "time": "19:00",
-                "event": "ATP - CINCINNATI Final : Sinner J. vs Alcaraz C.",
+                "event": "Cincinnati Open 2025 - ATP 1000 : Jannik Sinner (ITA) vs Carlos Alcaraz (ESP)",
                 "channels": []
             }
         ],
@@ -1608,11 +1608,6 @@
             {
                 "time": "15:00",
                 "event": "US Open (T2025): Mixed Doubles",
-                "channels": []
-            },
-            {
-                "time": "19:00",
-                "event": "Cincinnati Open 2025 - ATP 1000 : Jannik Sinner (ITA) vs Carlos Alcaraz (ESP)",
                 "channels": []
             }
         ],
