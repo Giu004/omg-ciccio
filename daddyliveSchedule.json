@@ -1275,6 +1275,11 @@
         ],
         "Soccer</span>": [
             {
+                "time": "09:30",
+                "event": "ASEAN Club Championship - Gr.B : Johor Darul Takzim vs Lion City Sailors",
+                "channels": []
+            },
+            {
                 "time": "10:00",
                 "event": "Portugal - Liga Revela\u00e7\u00e3o : Mar\u00edtimo U23 vs Sporting Braga U23",
                 "channels": []
@@ -1282,6 +1287,11 @@
             {
                 "time": "11:30",
                 "event": "Russian Cup : Irkutsk vs Siber",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ASEAN Club Championship - Gr.B : Shan United vs Svay Rieng",
                 "channels": []
             },
             {
@@ -1327,6 +1337,11 @@
             {
                 "time": "16:00",
                 "event": "Finland Ykk\u00f6nen : JJK vs Atlantis",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Europa Conference League : Rosenborg vs Mainz",
                 "channels": []
             },
             {
@@ -1382,6 +1397,16 @@
             {
                 "time": "17:45",
                 "event": "UEFA Conference League : Basaksehir vs CS U. Craiova",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UEFA Conference League - Playoff : Breidablik vs SS Virtus",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "UEFA Conference League - Playoff : Olimpija Ljubljana vs Noah",
                 "channels": []
             },
             {
@@ -1476,6 +1501,11 @@
             },
             {
                 "time": "18:45",
+                "event": "UEFA Europa League - Playoff : Aberdeen vs FCSB",
+                "channels": []
+            },
+            {
+                "time": "18:45",
                 "event": "UEFA Conference League : Shelbourne vs Linfield",
                 "channels": []
             },
@@ -1507,6 +1537,11 @@
             {
                 "time": "19:00",
                 "event": "UEFA Conference League : Santa Clara vs Shamrock Rovers",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "UEFA - Europa League - Playoff : Lincoln Red Imps vs Braga",
                 "channels": []
             },
             {
@@ -1596,6 +1631,256 @@
             {
                 "time": "15:00",
                 "event": "US Open Qualifying Round",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Alexander Blockx vs Kimmer Coppejans",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Aoi Ito vs Guiomar Maristany de Reales",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Arianne Hartono vs Olivia Gadecki",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Beibit Zhukayev vs Zachary Svajda",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Bernard Tomic vs Henrique Rocha",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Billy Harris vs Mikhail Kukushkin",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Brace Cadence vs Veronika Erjavec",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Carol Zhao vs Lucrezia Stefanini",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Claire Liu vs Maddison Inglis",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Daniel Merida Aguilar vs Titouan Droguet",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Darja Semenistaja vs Lizette Cabrera",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Destanee Aiava vs Justina Mikulskyte",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Dominika Salkova vs Kristina Dmitruk",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Elena Pridankina vs Ena Shibahara",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Fajing Sun vs Lloyd Harris",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Francesca Jones vs Ekaterine Gorgodze",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Francesco Passaro vs Rodrigo Pacheco Mendez",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Harriet Dart vs Ayana Akli",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Hina Inoue vs Simona Waltert",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Jaime Faria vs Giulio Zeppieri",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : James Duckworth vs James Mccabe",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Jerome Kym vs Michael Zheng",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Jesper de Jong vs Harold Mayot",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Juan Manuel Cerundolo vs Yuta Shimizu",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Jule Niemeier vs Priscilla Hon",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Kyrian Jacquet vs Jason Kubler",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Linda Klimovicova vs Jessika Ponchet",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Luca Van Assche vs Yibing Wu",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Mai Hontama vs Rebecca Marino",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Maja Chwalinska vs Janice Tjen",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Martin Damm Jr vs Benjamin Hassan",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Matteo Gigante vs Chak Lam Coleman Wong",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Mitchell Krueger vs Andrea Collarini",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Murphy Cassone vs Dino Prizmic",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Nikoloz Basilashvili vs Marc Andrea Huesler",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Oksana Selekhmeteva vs Iryna Shymanovich",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Oliver Crawford vs Garrett Johns",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Otto Virtanen vs Leandro Riedi",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Patrick Maloney vs Daniel Elahi Galan",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Petra Marcinko vs Alina Charaeva",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Petra Martic vs Xiyu Wang",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Rei Sakamoto vs Ignacio Buse",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Sachia Vickery vs Ella Seidel",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Shintaro Mochizuki vs Roman Andres Burruchaga",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Shuai Zhang vs Darja Vidmanova",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Sijia Wei vs Leyre Romero Gormaz",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Ugo Blanchet vs Dmitry Popko",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Varvara Gracheva vs Tara Wurth",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - US Open - Qualifiers : Viktoriya Tomova vs Hanne Vandewinkel",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Zsombor Piros vs Thiago Agustin Tirante",
                 "channels": []
             }
         ],
