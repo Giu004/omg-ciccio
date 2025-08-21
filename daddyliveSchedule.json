@@ -476,6 +476,159 @@
                 "channels": []
             }
         ],
+        "US OPEN - QUALIFYING</span>": [
+            {
+                "time": "15:00",
+                "event": "Stadium 17",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 5",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 4",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 6",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 7",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 8",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 9",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 10",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 11",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 12",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 13",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 14",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 15",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Court 16",
+                "channels": []
+            }
+        ],
+        "ATP - WINSTON SALEM</span>": [
+            {
+                "time": "18:00",
+                "event": "Korda S. vs Kecmanovic M.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Munar J. vs Fucsovics M.",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Medjedovic H. vs Mpetshi Perricard G.",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Bu Y. vs Van De Zandschulp B.",
+                "channels": []
+            }
+        ],
+        "WTA - CLEVELAND</span>": [
+            {
+                "time": "15:00",
+                "event": "Gibson T. vs Wang Xin.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Li A. vs Jovic I.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Sierra S. vs Jacquemot E.",
+                "channels": []
+            },
+            {
+                "time": "15:45",
+                "event": "Boulter K. vs Golubic V.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Sierra or Jacquemot vs Li or Jovic",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Boulter or Golubic vs Gibson or Wang",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "Samsonova L. vs Cirstea S.",
+                "channels": []
+            }
+        ],
+        "WTA - MONTERREY</span>": [
+            {
+                "time": "21:00",
+                "event": "Shnaider D. vs Mertens E.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Parks A. vs Sramkova R.",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "Noskova L. vs Alexandrova E.",
+                "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "Ruzic A. vs Bouzkova M.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
