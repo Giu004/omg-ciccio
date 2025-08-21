@@ -1,5 +1,37 @@
 {
     "Thursday 21st Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "2025 PDRA Thunder Valley Throwdown",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Short Track Super Series at New Egypt Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "2025 USAC Sprint Car Smackdown at Kokomo Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Flying Tiger Triple Crown #3 at Thunder Road Speedbowl",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "World of Outlaws Sooner State Showdown",
+                "channels": []
+            },
+            {
+                "time": "01:45",
+                "event": "2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
