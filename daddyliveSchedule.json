@@ -1,5 +1,67 @@
 {
     "Friday 22nd Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "Weekly Racing Stafford",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Lucas Oil Rumble By The River at Port Royal Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Fury FC 108: Piccininni vs Orozco",
+                "channels": []
+            },
+            {
+                "time": "22:20",
+                "event": "2025 Empire Super Sprints at Autodrome Granby",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprint Cars",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Championship Night at Utica-Rome Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprints",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "2025 Skunk Cup at Magic Valley Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars River Cities",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Late Models Arrowhead",
+                "channels": []
+            },
+            {
+                "time": "00:15",
+                "event": "American Sprint Car Series Big Sky",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "LFA 215: Miranda vs. Barzilay",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "16:00",
