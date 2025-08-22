@@ -1126,6 +1126,11 @@
         ],
         "WWE</span>": [
             {
+                "time": "19:00",
+                "event": "WWE Friday Night SmackDown Early Start",
+                "channels": []
+            },
+            {
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
                 "channels": []
