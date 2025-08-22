@@ -1574,6 +1574,21 @@
                 "channels": []
             },
             {
+                "time": "16:00",
+                "event": "Austria - 2.League : Amstetten vs St. Polten",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : Austria Lustenau vs Stripfing/Weiden",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Austria - 2.League : First Vienna vs Liefering",
+                "channels": []
+            },
+            {
                 "time": "16:30",
                 "event": "United Arab Emirates - UAE Pro League : Al Sharjah vs Al Jazira",
                 "channels": []
@@ -1750,6 +1765,11 @@
             },
             {
                 "time": "18:30",
+                "event": "Austria - 2.League : Admira Wacker vs WSC Hertha Wels",
+                "channels": []
+            },
+            {
+                "time": "18:30",
                 "event": "Poland - Ekstraklasa : Widzew \u0141\u00f3d\u017a vs Pogo\u0144 Szczecin",
                 "channels": []
             },
@@ -1854,6 +1874,11 @@
                 "channels": []
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Yaracuyanos vs Deportivo Rayo Zuliano",
+                "channels": []
+            },
+            {
                 "time": "22:00",
                 "event": "Brazil - Serie B : Athletic Club vs Chapecoense",
                 "channels": []
@@ -1871,6 +1896,11 @@
             {
                 "time": "23:00",
                 "event": "Argentina - Primera Divisi\u00f3n : Tigre vs Independiente Rivadavia",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Venezuela - Primera Division - Clausura : Portuguesa vs Academia Anzoategui",
                 "channels": []
             },
             {
@@ -1950,6 +1980,181 @@
             {
                 "time": "21:00",
                 "event": "Major League Pickleball MLP Finals",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR PTT Budapest Men 04 : Lautaro A.Corthey vs Zeteny Paragi",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR PTT Budapest Women 04 : MA Dolores Carbo Chova vs Melissa Boyden",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR PTT Budapest Women 04 : Stella Kovacicova vs Ana Cristiana Mocanu",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "UTR PTT Budapest Men 04 : Edouard Aubert vs Botond Kisantal",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "UTR (M) - Budapest (UNG) : Gergely Madarasz vs David Kovarik",
+                "channels": []
+            },
+            {
+                "time": "07:15",
+                "event": "UTR PTT Budapest Women 04 : Julia Terziyska vs Victoria Borodulina",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Hersonissos (GRE) - Double : F.Andaloro/M.Giunta vs M.Rosenkranz/H.Wendelken",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Sofia (BGR) : Joel Josef Schwarzler vs Marat Sharipov",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Johan Nikles vs Sebastian Fanselow",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Kai Wehnelt vs Alexander Weis",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Hersonissos (GRE) : Moez Echargui vs Robin Bertrand",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Noah Karma vs Henry Bernet",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Hersonissos (GRE) : Rafael Jodar vs Dan Added",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (M) - Muttenz (ELV) : Tanguy Genier vs Carlo Alberto Caniato",
+                "channels": []
+            },
+            {
+                "time": "08:30",
+                "event": "UTR PTT Budapest Men 04 : Rafael KIS Balazs vs Peter Goldsteiner",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Augsburg (GER) - Double : B.Arias/J.C.Prado Angelo vs J.Barnat/F.Duda",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Lucas Gerch vs Flynn Thomas",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Maximilian Figl vs Maxime Janvier",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Maximilian Neuchrist vs Jeffrey V.D. Schulenburg",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (M) - Muttenz (ELV) : Michele Ribecai vs Arthur Bellegy",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Sofia (BGR) : Matej Dodig vs Alex Molcan",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "ITF (M) - Ueberlingen (GER) : Dominik Kellovsky vs Niklas Schell",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "Challenger - Augsburg (GER) : Zdenek Kolar vs Cedrik-Marcel Stebe",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Sofia (BGR) - Double : M.Hermans/T.Pereira vs A.Jecan/B.Pavel",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "UTR PTT Budapest Women 04 : Terezia Perhacova vs Eszter Dorka Finak",
+                "channels": []
+            },
+            {
+                "time": "10:59",
+                "event": "ITF (M) - Ueberlingen (GER) : Louis Wessels vs Christian Djonov",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ITF (M) - Ueberlingen (GER) : Oscar Otte vs Marvin Moeller",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Hersonissos (GRE) - Double : V.Cornea/P.Niklas-Salminen vs S.Sakellaridis/Pe.Tsitsipas",
+                "channels": []
+            },
+            {
+                "time": "11:19",
+                "event": "ITF (M) - Ueberlingen (GER) : Arthur Nagel vs Gregor Ramskogler",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Sofia (BGR) - Double : F.Agamenone/F.Roncadelli vs D.Pichler/N.Serdarusic",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Augsburg (GER) - Double : D.Masur/B.Sanchez Martinez vs M.Schoenhaus/H.Squire",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Luca Van Assche vs Yibing Wu",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - US Open - Qualifiers : Patrick Maloney vs Daniel Elahi Galan",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - Winston-Salem (USA) - Double : J.Salisbury/N.Skupski vs F.Cabral/L.Miedler",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - Winston-Salem (USA) : Sebastian Korda vs Marton Fucsovics",
                 "channels": []
             }
         ],
@@ -2266,22 +2471,22 @@
             },
             {
                 "time": "22:00",
-                "event": "CEBL : TBA vs Niagara River Lions",
+                "event": "CEBL : Scarborough Shooting Stars vs Niagara River Lions",
                 "channels": []
             },
             {
                 "time": "23:30",
-                "event": "WNBA : Seattle Storm vs Dallas Wings",
+                "event": "WNBA : Seattle Storm W vs Dallas Wings W",
                 "channels": []
             },
             {
                 "time": "23:30",
-                "event": "WNBA : Minnesota Lynx vs Indiana Fever",
+                "event": "WNBA : Minnesota Lynx W vs Indiana Fever W",
                 "channels": []
             },
             {
                 "time": "00:30",
-                "event": "CEBL : Calgary Surge vs Winnipeg Sea Bears",
+                "event": "CEBL : Winnipeg Sea Bears vs Calgary Surge",
                 "channels": []
             },
             {
@@ -2291,7 +2496,7 @@
             },
             {
                 "time": "02:00",
-                "event": "WNBA : Golden State Valkyries W",
+                "event": "WNBA : Golden State Valkyries W vs Phoenix Mercury W",
                 "channels": []
             },
             {
