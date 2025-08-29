@@ -2007,6 +2007,26 @@
             },
             {
                 "time": "18:00",
+                "event": "Iceland - Lengjudeildin : Fjolnir Reykjavik vs Throttur Reykjavik",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Belgium - Challenger Pro League : Kortrijk vs Francs Borains",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Iceland - Lengjudeildin : Njardvik vs Leiknir Reykjavik",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Belgium - Challenger Pro League : SK Beveren vs Gent B",
+                "channels": []
+            },
+            {
+                "time": "18:00",
                 "event": "Saudi Arabia - Pro League : Al Taawon vs Al Nassr",
                 "channels": []
             },
@@ -2032,6 +2052,16 @@
             },
             {
                 "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : Emmen vs Den Bosch",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : Jong Ajax Amsterdam vs Maastricht",
+                "channels": []
+            },
+            {
+                "time": "18:00",
                 "event": "Netherlands - Eredivisie : Groningen vs Heracles",
                 "channels": []
             },
@@ -2043,6 +2073,11 @@
             {
                 "time": "18:00",
                 "event": "Netherlands - Eerste Divisie : Willem II vs Utrecht II",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Netherlands - Eerste Divisie : TOP Oss vs Dordrecht",
                 "channels": []
             },
             {
