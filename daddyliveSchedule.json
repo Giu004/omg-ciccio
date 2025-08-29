@@ -1475,6 +1475,11 @@
                 "channels": []
             },
             {
+                "time": "22:00",
+                "event": "NCCAFBS : Campbell vs Rhode Island",
+                "channels": []
+            },
+            {
                 "time": "23:00",
                 "event": "NCCAFBS : Kennesaw State vs Wake Forest",
                 "channels": []
@@ -1487,6 +1492,31 @@
             {
                 "time": "23:00",
                 "event": "NCCAFBS : Western Michigan vs Michigan State",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCCAFBS : Bethune-Cookman vs FIU",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCCAFBS : Duke's Mayo Classic Appalachian State vs Charlotte",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCCAFBS : New Haven vs Marist",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "NCCAFBS : Western Illinois vs Illinois",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "NCCAFBS : Wagner vs Kansa",
                 "channels": []
             },
             {
