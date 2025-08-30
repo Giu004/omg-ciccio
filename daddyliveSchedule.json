@@ -4877,6 +4877,11 @@
         ],
         "Ice Hockey</span>": [
             {
+                "time": "11:00",
+                "event": "Euro Hockey Tour Women : Czech Republic vs. Sweden",
+                "channels": []
+            },
+            {
                 "time": "12:00",
                 "event": "Club Friendlies : Malm\u00f6 Redhawks vs Djurg\u00e5rdens IF",
                 "channels": []
@@ -4887,8 +4892,8 @@
                 "channels": []
             },
             {
-                "time": "11:00",
-                "event": "Euro Hockey Tour Women : Czech Republic vs. Sweden",
+                "time": "14:00",
+                "event": "Champions Hockey League : Lulea Hockey vs. SC Bern",
                 "channels": []
             },
             {
@@ -4897,13 +4902,18 @@
                 "channels": []
             },
             {
-                "time": "14:00",
-                "event": "Champions Hockey League : Lulea Hockey vs. SC Bern",
+                "time": "16:00",
+                "event": "Champions Hockey League : Storhamar Hockey vs. Sparta Prague",
                 "channels": []
             },
             {
-                "time": "16:00",
-                "event": "Champions Hockey League : Storhamar Hockey vs. Sparta Prague",
+                "time": "16:30",
+                "event": "Champions League : Ingolstadt vs KalPa Kuopio",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Champions League : Belfast Giants vs Ilves Tampere",
                 "channels": []
             },
             {
