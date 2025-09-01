@@ -2592,12 +2592,6 @@ https://zekonew.iosplayer.ru/zeko/premium385/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium78/mono.m3u8
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="SporTV2 Brasil" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SporTV2 Brasil
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium79/mono.m3u8
-
 #EXTINF:-1 tvg-id="unknown" tvg-name="SporTV3 Brasil" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SporTV3 Brasil
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
