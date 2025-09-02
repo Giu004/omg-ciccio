@@ -316,6 +316,94 @@
                 "channels": []
             }
         ],
+        "ATP - US OPEN</span>": [
+            {
+                "time": "15:00",
+                "event": "Lehecka J. vs Alcaraz C.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Djokovic N. vs Fritz T.",
+                "channels": []
+            }
+        ],
+        "WTA - US OPEN</span>": [
+            {
+                "time": "15:30",
+                "event": "Pegula J. vs Krejcikova B.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Sabalenka A. vs Vondrousova M.",
+                "channels": []
+            }
+        ],
+        "ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "18:00",
+                "event": "Romboli F./Smith J. P. vs Mektic N./Ram R.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "Drzewiecki K./Willis M. vs Machac T./Vocel M.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Salisbury J./Skupski N. vs Nys H./Roger-Vasselin E.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Bhambri Y./Venus M. vs Krawietz K./Puetz T.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Pavlasek A./Zielinski J. vs Granollers M./Zeballos H.",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Schnaitter J./Wallner M. vs Doumbia S./Reboul F.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Frantzen C./Haase R. vs Etcheverry T. M./Ugo Carabelli C.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Gonzalez M./Molteni A. vs Cash R./Tracy J.",
+                "channels": []
+            }
+        ],
+        "WTA DOUBLES - US OPEN</span>": [
+            {
+                "time": "17:30",
+                "event": "Muhammad A./Schuurs D. vs Errani S./Paolini J.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "Babos T./Stefani L. vs Dabrowski G./Routliffe E.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "Kudermetova V./Mertens E. vs Andreeva M./Shnaider D.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Siniakova K./Townsend T. vs Fernandez L./Williams V.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
@@ -472,7 +560,7 @@
         ],
         "Floorball</span>": [
             {
-                "time": "07:37",
+                "time": "14:17",
                 "event": "Roller Hockey: European Senior Men's Championship : Portugal vs France",
                 "channels": []
             }
