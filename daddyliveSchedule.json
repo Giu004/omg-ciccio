@@ -326,6 +326,64 @@
                 "channels": []
             }
         ],
+        "ATP - US OPEN</span>": [
+            {
+                "time": "15:30",
+                "event": "Auger-Aliassime F. vs De Minaur A.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Sinner J. vs Musetti L.",
+                "channels": []
+            }
+        ],
+        "WTA - US OPEN</span>": [
+            {
+                "time": "17:30",
+                "event": "Anisimova A. vs Swiatek I.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "Muchova K. vs Osaka N.",
+                "channels": []
+            }
+        ],
+        "ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "18:30",
+                "event": "Mektic N./Ram R. vs Bhambri Y./Venus M.",
+                "channels": []
+            },
+            {
+                "time": "20:00",
+                "event": "Doumbia S./Reboul F. vs Cash R./Tracy J.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Frantzen C./Haase R. vs Granollers M./Zeballos H.",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "Salisbury J./Skupski N. vs Machac T./Vocel M.",
+                "channels": []
+            }
+        ],
+        "WTA DOUBLES - US OPEN</span>": [
+            {
+                "time": "20:00",
+                "event": "Siniakova K./Townsend T. vs Kudermetova V./Mertens E.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "Dabrowski G./Routliffe E. vs Errani S./Paolini J.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
