@@ -343,6 +343,30 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "23:00",
+                "event": "WTA - US OPEN : Sabalenka A. vs Pegula J.",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - US OPEN : Osaka N. vs Anisimova A.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "20:00",
+                "event": "ATP DOUBLES - US OPEN : Pegula J. vs Li A.",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "ATP DOUBLES - US OPEN : Krejcikova B. vs Townsend T.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
