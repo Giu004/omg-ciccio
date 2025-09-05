@@ -1355,6 +1355,25 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "19:00",
+                "event": "ATP - US OPEN : Djokovic N. vs Alcaraz C.",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - US OPEN : Osaka N. vs Anisimova A.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA DOUBLES - US OPEN</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA DOUBLES - US OPEN : Siniakova K./Townsend T. vs Dabrowski G./Routliffe E.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
